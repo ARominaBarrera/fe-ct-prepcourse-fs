@@ -2,9 +2,8 @@
 
 # **HOMEWORK 01 | INSTALACIÓN DE HERRAMIENTAS**
 
-## **📌 LINKS IMPORTANTES**
+## **📌 LINKS IMPOR
 
----
 
 </br >
 

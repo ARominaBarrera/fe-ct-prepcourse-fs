@@ -6,7 +6,7 @@
 
 Para ejecutar los tests de las homeworks debes:
 
-1. Desde tu terminal, dirígete a la carpeta raíz de todas las homeworks y ejecuta el comando:
+1. Desde tu terminal, dirígete a la  ejecuta el comando:
 
 ```bash
     npm install
