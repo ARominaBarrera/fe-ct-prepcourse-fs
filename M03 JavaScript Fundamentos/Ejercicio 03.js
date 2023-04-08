@@ -8,6 +8,7 @@ function sonIguales(x, y) {
    if(x === y) return true
 
    return false;
+
 }
 
 function tienenMismaLongitud(str1, str2) {
@@ -46,8 +47,7 @@ function esPar(num) {
    // Retorna true si "num" es par.
    // De lo contrario, retorna false.
    // Tu código:
-   if(numero % 2 === 0) return true;
-
+   if(num % 2 === 0) return true;
    return false;
 }
 

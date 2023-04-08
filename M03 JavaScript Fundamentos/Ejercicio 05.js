@@ -44,8 +44,11 @@ function obtenerSaludo(nombre) {
    // Ejemplo: "Martin" ---> "Hola Martin!"
    // Tu código:
 
-   return "hola " + nombre + "!"
+   return "hola " + nombre + "!";
 }
+
+
+
 
 function obtenerAreaRectangulo(alto, ancho) {
    // Retornar el área de un rectángulo teniendo su altura y ancho.
