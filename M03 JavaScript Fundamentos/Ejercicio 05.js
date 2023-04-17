@@ -35,7 +35,7 @@ function combinarNombres(nombre, apellido) {
    // Ejemplo: ("Soy", "Henry") ---> "Soy Henry"
    // Tu código:
 
-   return nombre + " "  + apellido
+   return nombre  + " " + apellido;
 
 }
 
@@ -44,8 +44,10 @@ function obtenerSaludo(nombre) {
    // Ejemplo: "Martin" ---> "Hola Martin!"
    // Tu código:
 
-   return "hola " + nombre + "!";
+   return "Hola " + nombre + "!";
+
 }
+
 
 
 
